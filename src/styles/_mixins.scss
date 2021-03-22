@@ -1,0 +1,10 @@
+@mixin base-card {
+    border-radius: 4px;
+    color: $color-font-secondary;
+    padding: 16px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    cursor: pointer;
+    box-shadow: 0px 3px 10px 0px $color-shadow;
+}
