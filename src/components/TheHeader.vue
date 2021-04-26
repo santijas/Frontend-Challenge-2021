@@ -1,7 +1,7 @@
 <template>
   <header>
     <router-link to="/">
-      <img class="logo" src="../assets/bigbox.svg" />
+      <img class="logo" src="../assets/nytimes.svg" />
     </router-link>
   </header>
 </template>
@@ -30,7 +30,7 @@ header {
   background-size: cover;
   background-position: center;
   display: block;
-  width: 115px;
-  height: 60px;
+  width: 250px;
+  height: 100px;
 }
 </style>

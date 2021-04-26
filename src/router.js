@@ -11,12 +11,12 @@ const router = new Router({
         path: '/',
         name: 'home',
         component: Home,
-        meta: { title: 'Bigbox Challenge - Categories' }
+        meta: { title: 'NYTimes - Categories' }
     }, {
         path: '/books',
         name: 'books',
         component: Books,
-        meta: { title: 'Bigbox Challenge - Books' }
+        meta: { title: 'NYTimes - Books' }
     }]
 })
 export default router
