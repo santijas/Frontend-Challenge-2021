@@ -1,9 +1,3 @@
-## Bigbox's Frontend Challenge 2021
-
-Welcome to the Bigbox's Frontend Challenge 2021. Thank you for participating and good luck !
-
----
-
 ### Challenge
 
 You will need to develop a frontend application for the Books API provided by the NYTimes. 
